@@ -1,5 +1,8 @@
-#Single File
-new-file.txt
+#Ignore Single File
+another-file.txt
 
-#Folder
+#Ignore all files in the bin Folder
 bin/
+
+#Ignore all .tmp files
+*.tmp
